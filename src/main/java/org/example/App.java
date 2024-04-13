@@ -6,6 +6,7 @@ package org.example;
  */
 public class App 
 {
+    //lol
     public static void main( String[] args ) throws Exception {g
         Tester test = new Tester("Владик", "Бурдик", 1, "A1", 0.2);
         test.output("Baby");
