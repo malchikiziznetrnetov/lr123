@@ -14,6 +14,7 @@ public class App
         tester2.output("Бейбик");
         int a = 0;
         int b = 1;
+        int c  = 3;
         test.staticOutput("Дишечка", "Голубчик", 999.1);
         System.out.println( "Hello Влад!" );
     }
